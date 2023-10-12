@@ -4,4 +4,4 @@ I do python stuff, mainly web development, using Django and Flask. I'm also (oca
 
 I'm also a software engineer, with a degree from [Universidad de La Frontera](https://www.ufro.cl/), from Temuco, Chile.
 
-You can follow me at <a href="https://lile.cl/@mak" rel="me">@lile.cl@mak</a>
+You can follow me at <a href="https://lile.cl/@mak" rel="nofollow me">@lile.cl@mak</a>
